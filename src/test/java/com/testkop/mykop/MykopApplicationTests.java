@@ -10,4 +10,8 @@ class MykopApplicationTests {
 	void contextLoads() {
 	}
 
+	void registerTest(){
+
+	}
+
 }
